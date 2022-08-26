@@ -34,9 +34,9 @@ In this Power BI Dashboard, I worked on :
 6) Created conditional columns as per the requiremnets in power query.
 7) Merged Data to get appropriate results.
 
-![Home Page](https://github.com/rutudesai/HR-PBI-Dashboard/blob/main/Home.jpg?raw=true)
-![Action Page](https://github.com/rutudesai/HR-PBI-Dashboard/blob/main/Action.jpg?raw=true)
-![Detail Page](https://github.com/rutudesai/HR-PBI-Dashboard/blob/main/Detail.jpg?raw=true)
+![Home Page](https://github.com/rutudesai/HR-PBI-Dashboard/blob/main/Home.JPG?raw=true)
+![Action Page](https://github.com/rutudesai/HR-PBI-Dashboard/blob/main/Action.JPG?raw=true)
+![Detail Page](https://github.com/rutudesai/HR-PBI-Dashboard/blob/main/Detail.JPG?raw=true)
 
 Future Analysis :
 
