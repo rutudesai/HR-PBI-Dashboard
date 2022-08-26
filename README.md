@@ -34,6 +34,10 @@ In this Power BI Dashboard, I worked on :
 6) Created conditional columns as per the requiremnets in power query.
 7) Merged Data to get appropriate results.
 
+![Home Page](https://github.com/[rutudesai]/[HR-PBI-Dashboard]/blob/[main]/image.jpg?raw=true)
+![Action Page](https://github.com/[rutudesai]/[HR-PBI-Dashboard]/blob/[main]/image.jpg?raw=true)
+![Detail Page](https://github.com/[rutudesai]/[HR-PBI-Dashboard]/blob/[main]/image.jpg?raw=true)
+
 Future Analysis :
 
 1) Distribution of Age amongst the company?(are we hiring young talents, experienced, etc.)
